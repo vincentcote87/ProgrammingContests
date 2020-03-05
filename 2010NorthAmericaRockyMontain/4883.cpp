@@ -1,3 +1,11 @@
+// Contest - 2010 North American Rockey Mountain
+// Problem 4883 - Ropes
+// Vincent Cote - CPSC 3200
+// Approach - As I take in the input I add it to a priority queue to easily have access to
+// the highest climb in the list. I also keep a running total of the total climb (sum of pitches).
+// For each size of rope, I check if the climb is less then half the rope length, if it is
+// I get the total number of climbers by dividing the rope length by the highest pitch plus 1
+// since the first climber doesn't use rope.
 #include <iostream>
 #include <queue>
 
