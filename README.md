@@ -12,11 +12,11 @@ Programming contest question for CPSC 3200 class
 - [4890 - Aronson](https://vjudge.net/problem/UVALive-4890) - Incomplete
 
 ## Contest 2 - [1998 North American East Central](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=494)
--[5408 - Keeps Going and Going](https://vjudge.net/problem/UVALive-5408) - Incomplete
--[5409 - Scheduling Lectures](https://vjudge.net/problem/UVALive-5409) - Incomplete
--[5410 - Counterfit Dollar](https://vjudge.net/problem/UVALive-5410) - Incomplete
--[5411 - Metal Cutting](https://vjudge.net/problem/UVALive-5411) - Incomplete
--[5412 - Street Direction](https://vjudge.net/problem/UVALive-5412) - Incomplete
--[5413 - Parallel Deadlock](https://vjudge.net/problem/UVALive-5413) - Incomplete
--[5414 - DNA Sorting](https://vjudge.net/problem/UVALive-5414) - Incomplete
--[5415 - Numbers That Count](https://vjudge.net/problem/UVALive-5415) - Incomplete
+  -[5408 - Keeps Going and Going](https://vjudge.net/problem/UVALive-5408) - Incomplete
+  -[5409 - Scheduling Lectures](https://vjudge.net/problem/UVALive-5409) - Incomplete
+  -[5410 - Counterfit Dollar](https://vjudge.net/problem/UVALive-5410) - Incomplete
+  -[5411 - Metal Cutting](https://vjudge.net/problem/UVALive-5411) - Incomplete
+  -[5412 - Street Direction](https://vjudge.net/problem/UVALive-5412) - Incomplete
+  -[5413 - Parallel Deadlock](https://vjudge.net/problem/UVALive-5413) - Incomplete
+  -[5414 - DNA Sorting](https://vjudge.net/problem/UVALive-5414) - Incomplete
+  -[5415 - Numbers That Count](https://vjudge.net/problem/UVALive-5415) - Incomplete
