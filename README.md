@@ -12,7 +12,7 @@ Programming contest question for CPSC 3200 class
 - [4890 - Aronson](https://vjudge.net/problem/UVALive-4890) - Incomplete
 
 ## Contest 2 - [1998 North American East Central](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=494)
-  -[5408 - Keeps Going and Going](https://vjudge.net/problem/UVALive-5408) - Incomplete
+ -  [5408 - Keeps Going and Going](https://vjudge.net/problem/UVALive-5408) - Incomplete
   -[5409 - Scheduling Lectures](https://vjudge.net/problem/UVALive-5409) - Incomplete
   -[5410 - Counterfit Dollar](https://vjudge.net/problem/UVALive-5410) - Incomplete
   -[5411 - Metal Cutting](https://vjudge.net/problem/UVALive-5411) - Incomplete
